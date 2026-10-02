@@ -134,8 +134,6 @@ LABEL_MAP = {
 
 ## 📊 Results
 
-_Add your evaluation metrics here, for example:_
-
 | Metric    | Score |
 |-----------|-------|
 | Accuracy  | 90.5%   |
